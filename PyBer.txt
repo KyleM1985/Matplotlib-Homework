@@ -1,0 +1,3 @@
+The first observation which seems to be the most obvious is that Urban areas are incredibly more busy than the rest.
+The second obesrvation was that the highest fares for rides ocurred in the rural city type, probably due to the longer distance needing to be covered per fair.
+The third observation was that on average the suburban rides seemed to cost more than the other 2 city types.
